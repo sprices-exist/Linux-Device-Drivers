@@ -1,5 +1,5 @@
 # Linux-Device-Drivers
-Character and Block Device Driver Exxercises in Linux Kernel
+Character and Block Device Drivers in Linux Kernel
 
 ## Lab 8 task 4
 Implements a simple Linux kernel module that creates a character device for Fibonacci number generation. When a user reads from the device, it returns the current Fibonacci number and updates the sequence. The module doesn't handle writes to the device and provides basic functionality to open and release the device.
